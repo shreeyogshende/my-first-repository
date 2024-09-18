@@ -1,0 +1,471 @@
+21:12:14:055 (00013428) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+21:12:14:055 (00013428) > [Startup] ==============
+21:12:14:055 (00013428) > [Startup] 
+21:12:14:055 (00013428) > [Startup] Build: v1053.5.0625.1621
+21:12:14:055 (00013428) > [Startup] Windows 11.0 (build 22631.4169)
+21:12:14:055 (00013428) > [Startup] Distribution platform: Steam
+21:12:14:055 (00013428) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+21:12:14:055 (00013428) > [Startup] Working directory: D:\Ghost of Tsushima\Ghost of Tsushima DIRECTORS CUT
+21:12:14:055 (00013428) > [Startup] Run ID: D730-D608-2CC2-0126
+21:12:14:055 (00013428) > [Startup] 
+21:12:14:055 (00013428) > [Startup] Memory statistics:
+21:12:14:055 (00013428) > [Startup]   Total RAM = 15.7 GB (16077 MB)
+21:12:14:055 (00013428) > [Startup]   Avail RAM = 9.5 GB (9681 MB)
+21:12:14:055 (00013428) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+21:12:14:055 (00013428) > [Startup]   Avail virtual memory = 131066.7 GB (134212335 MB)
+21:12:14:055 (00013428) > [Startup]   Total page file = 19.3 GB (19738 MB)
+21:12:14:055 (00013428) > [Startup]   Avail page file = 9.4 GB (9606 MB)
+21:12:14:055 (00013428) > [Startup] 
+21:12:14:055 (00013428) > [Steam] Initializing.
+21:12:14:055 (00013428) > [Steam] Successfully initialized.
+21:12:14:055 (00013428) > [Steam] Currently connected to 0 remote sessions
+21:12:14:055 (00013428) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+21:12:14:138 (00013428) > [NxApp] PreInit
+21:12:14:138 (00013428) > [NxProcessorInfo] Processor info:
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Description:             	13th Gen Intel(R) Core(TM) i5-13420H
+21:12:14:138 (00013428) > [NxProcessorInfo] 	NumaNode Count:    	0
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Group Count:       	1
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Physical Core:     	8
+21:12:14:138 (00013428) > [NxProcessorInfo] 		Performance Core:   4
+21:12:14:138 (00013428) > [NxProcessorInfo] 		Efficiency  Core:   4
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Logical  Core:     	12
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Family:            	6
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Model:             	186
+21:12:14:138 (00013428) > [NxProcessorInfo] 	Name:              	13th Gen Intel(R) Core(TM) i5-13420H
+21:12:14:138 (00013428) > [NxProcessorInfo] 	AVX:               	1
+21:12:14:138 (00013428) > [NxProcessorInfo] 	F16C:              	1
+21:12:14:138 (00013428) > [NxProcessorInfo] 	AVX2:              	1
+21:12:14:138 (00013428) > [NxProcessorInfo] 	NormalAffinity(auto)
+21:12:14:138 (00013428) > [SwapChain] Initializing...
+21:12:14:138 (00013428) > [DXGI] Initializing...
+21:12:14:878 (00013428) > [NxApp] Streamline was successfully initialized.
+21:12:14:878 (00013428) > [DXGI] Successfully initialized.
+21:12:14:878 (00013428) > [Render] Enumerating adapters:
+21:12:14:878 (00013428) > [Render] 	Adapter 0:
+21:12:14:878 (00013428) > [Monitor] 		Description             : NVIDIA GeForce RTX 4050 Laptop GPU
+21:12:14:878 (00013428) > [Monitor] 		Vendor                  : nVidia (10de)
+21:12:14:878 (00013428) > [Monitor] 		Device                  : 28a1
+21:12:14:878 (00013428) > [Monitor] 		Sub system              : 8ba9103c
+21:12:14:878 (00013428) > [Monitor] 		Revision                : 161
+21:12:14:878 (00013428) > [Monitor] 		Dedicated Video Memory  : 5921 MB
+21:12:14:878 (00013428) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:12:14:878 (00013428) > [Monitor] 		Shared System Memory    : 8038 MB
+21:12:14:878 (00013428) > [Monitor] 
+21:12:14:878 (00013428) > [Render] Loading NVAPI...
+21:12:14:879 (00013428) > [Render] Done loading NVAPI
+21:12:14:879 (00013428) > [Render] 	Adapter 1:
+21:12:14:879 (00013428) > [Monitor] 		Description             : Intel(R) UHD Graphics
+21:12:14:879 (00013428) > [Monitor] 		Vendor                  : Intel (8086)
+21:12:14:879 (00013428) > [Monitor] 		Device                  : a7a8
+21:12:14:879 (00013428) > [Monitor] 		Sub system              : 8ba9103c
+21:12:14:879 (00013428) > [Monitor] 		Revision                : 4
+21:12:14:879 (00013428) > [Monitor] 		Dedicated Video Memory  : 0128 MB
+21:12:14:879 (00013428) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:12:14:879 (00013428) > [Monitor] 		Shared System Memory    : 8038 MB
+21:12:14:879 (00013428) > [Monitor] 
+21:12:14:879 (00013428) > [Render] 	Adapter 2:
+21:12:14:879 (00013428) > [Monitor] 		Description             : Microsoft Basic Render Driver
+21:12:14:879 (00013428) > [Monitor] 		Vendor                  : Unknown (1414)
+21:12:14:879 (00013428) > [Monitor] 		Device                  : 8c
+21:12:14:879 (00013428) > [Monitor] 		Sub system              : 0
+21:12:14:879 (00013428) > [Monitor] 		Revision                : 0
+21:12:14:879 (00013428) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+21:12:14:879 (00013428) > [Monitor] 		Dedicated System Memory : 0000 MB
+21:12:14:879 (00013428) > [Monitor] 		Shared System Memory    : 8038 MB
+21:12:14:879 (00013428) > [Monitor] 
+21:12:14:879 (00013428) > [Render] Enumerating monitors:
+21:12:14:879 (00013428) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+21:12:14:879 (00013428) > [Render] 
+21:12:14:882 (00013428) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+21:12:14:882 (00013428) > [SwapChain] Successfully initialized.
+21:12:14:882 (00013428) > [Render] Enumerating Display Modes:
+21:12:14:883 (00013428) > [Render] Querying NVAPI for Surround modes
+21:12:14:906 (00013428) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+21:12:14:915 (00013428) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 4050 Laptop GPU(1))' (0000000000010001): rect(0 1920 0 1080)
+21:12:14:915 (00013428) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  2 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  3 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  6 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  7 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 10 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 11 : 1152 x  864 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 14 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 15 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 16 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 17 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 18 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 19 : 1280 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 21 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 22 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 23 : 1280 x  800 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 24 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 25 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 26 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 27 : 1280 x  960 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 28 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 29 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 30 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 31 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:915 (00013428) > [Render] 		- Mode 32 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 33 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 34 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 35 : 1360 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 36 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 37 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 38 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 39 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 40 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 41 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 42 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 43 : 1440 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 44 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 45 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 46 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 47 : 1600 x 1024 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 48 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] 		- Mode 49 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0 exclusive = 0
+21:12:14:916 (00013428) > [Render] ***** Additional Monitor Output Info *****
+21:12:14:916 (00013428) > [Render] 		BitsPerColor: 8
+21:12:14:916 (00013428) > [Render] 		Primaries: R=0.5898;0.3496  G=0.3301;0.5547  B=0.1533;0.1191  White-Point=0.3135;0.3291
+21:12:14:916 (00013428) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+21:12:14:916 (00013428) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+21:12:14:916 (00013428) > [Render] ******************************************
+21:12:14:916 (00013428) > [Render] 
+21:12:15:073 (00013428) > [NxReflex] Reflex support result:Result::eOk
+21:12:15:073 (00013428) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+21:12:15:073 (00013428) > [NxReflex] DLSSG support result:Result::eOk
+21:12:15:073 (00013428) > [NxApp] Querying GPU Driver Info...
+21:12:15:073 (00013428) > [NxApp] Enumerating available display adapters:
+21:12:15:078 (00013428) > [NxApp] 		NVIDIA GeForce RTX 4050 Laptop GPU (active)
+21:12:15:078 (00013428) > [NxApp] 		Intel(R) UHD Graphics
+21:12:15:078 (00013428) > [NxApp] Successfully found GPU Driver Info
+21:12:15:078 (00013428) > [D3D] Max supported feature level: 11.0
+21:12:15:078 (00013428) > [Render] Disabled D3D12 experimentals
+21:12:15:185 (00013428) > [Render] VMEM Budget: 5153 MB
+21:12:15:185 (00013428) > [Render] VMEM Available: 5140 MB
+21:12:15:829 (00013428) > [Render] GPU node count: 1
+21:12:15:848 (00013428) > [NxReflex] Reflex support result:Result::eOk
+21:12:15:849 (00013428) > [NxReflex] Reflex GetState result:Result::eOk
+21:12:15:849 (00013428) > [NxApp] PreInit successful.
+21:12:15:849 (00013428) > [NxUpscaler] SL DLSS support: Result::eOk
+21:12:15:889 (00013428) > [NxUpscaler] XeSS init, code = 0
+21:12:15:892 (00013428) > [Input] Keyboard language: "English (India)" (id: 16393)
+21:12:15:892 (00013428) > [Input] Keyboard physical layout: "India" (id: 00004009)
+21:12:15:892 (00013428) > [Input] Human Input Device  "ELAN PrecisionTouchpad Filter Driver"   product 12999 vendor 1267 version 1 usage 5 usagePage 13
+21:12:15:892 (00013428) > [Input] Joystick            ""   product 2208 vendor 7119 version 260 usage 1 usagePage 65281 xinput no
+21:12:15:892 (00013428) > [Input] Joystick            ""   product 2208 vendor 7119 version 260 usage 1 usagePage 12 xinput no
+21:12:15:892 (00013428) > [Input] Human Input Device  "ELAN HID Class Filter Driver"   product 12999 vendor 1267 version 1 usage 1 usagePage 65280
+21:12:15:892 (00013428) > [Input] Joystick            ""   product 1781 vendor 49396 version 272 usage 1 usagePage 12 xinput no
+21:12:15:892 (00013428) > [Input] Human Input Device  "Portable Device Control device"   product 2590 vendor 32903 version 512 usage 13 usagePage 1
+21:12:15:892 (00013428) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+21:12:15:892 (00013428) > [Input] Human Input Device  "HID-compliant consumer control device"   product 0 vendor 1118 version 0 usage 1 usagePage 12
+21:12:15:892 (00013428) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+21:12:15:892 (00013428) > [Input] Mouse               "ELAN Input Device"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+21:12:15:892 (00013428) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+21:12:15:892 (00013428) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 8
+21:12:15:892 (00013428) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 154
+21:12:15:892 (00013428) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+21:12:15:897 (00013428) > [Input] Using LibScePad
+21:12:15:897 (00013428) > [XInput] Enumerating available xusb hid devices:
+
+21:12:17:860 (00013428) > [NxReflex] Reflex support result:Result::eOk
+21:12:17:860 (00013428) > [NxReflex] Reflex GetState result:Result::eOk
+21:12:17:860 (00013428) > [NxReflex] DLSSG support result:Result::eOk
+21:12:17:861 (00013428) > [NxApp] Driver Desc: NVIDIA GeForce RTX 4050 Laptop GPU
+21:12:17:861 (00013428) > [NxApp] Driver Version: 560.94
+21:12:17:861 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:12:17:861 (00013428) > [Settings] DirectX Version: 12
+21:12:17:861 (00013428) > [Settings] Window mode: Fullscreen
+21:12:17:861 (00013428) > [Settings] Fullscreen display mode:
+21:12:17:861 (00013428) > [Settings] 	Displaying on monitor: 0
+21:12:17:861 (00013428) > [Settings] 	Resolution: 1920x1080
+21:12:17:861 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:12:17:861 (00013428) > [Settings] 	HDR: Off
+21:12:17:861 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:12:17:861 (00013428) > [Settings] 	VSync: Off
+21:12:17:861 (00013428) > [Settings] 	Reflex: Low Latency
+21:12:17:861 (00013428) > [Settings] 	Frame generation: DLSSG
+21:12:17:861 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:12:17:861 (00013428) > [Settings] Anti aliasing: DLAA
+21:12:17:861 (00013428) > [Settings] Upscale method: DLSS
+21:12:17:861 (00013428) > [Settings] Upscale quality: Quality
+21:12:17:861 (00013428) > [Settings] Graphics Options:
+21:12:17:861 (00013428) > [Settings] 	Texture Quality: Ultra
+21:12:17:861 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:12:17:861 (00013428) > [Settings] 	Shadow Quality: Ultra
+21:12:17:861 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:12:17:861 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:12:17:861 (00013428) > [Settings] 	Terrain Detail: High
+21:12:17:861 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:12:17:861 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:12:17:861 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:12:17:861 (00013428) > [Settings] 	Volumetric Fog: Very High
+21:12:17:861 (00013428) > [Settings] 	Bloom: Off
+21:12:17:861 (00013428) > [Settings] 	Vignette: Off
+21:12:17:861 (00013428) > [Settings] 	Caustics: On
+21:12:17:861 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:12:17:861 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:12:17:861 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:12:17:861 (00013428) > [Startup] Creating compute command queue of type 2
+21:12:17:881 (00013428) > [Startup] Creating copy command queue of type 3
+21:12:17:886 (00013428) > [NxApp] Creating window...
+21:12:17:888 (00022232) > [GameWindow] UpdateState bVisible true
+21:12:17:903 (00013428) > [NxApp] Window created.
+21:12:17:903 (00013428) > [NxApp] Initializing swapchain...
+21:12:17:903 (00002596) > [SwapChain] Creating...
+21:12:17:903 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:12:17:903 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:12:17:950 (00002596) > [DXGI] Created swapchain.
+21:12:17:955 (00002596) > [SwapChain] Gamma correction is enabled.
+21:12:17:955 (00002596) > [SwapChain] Successfully created.
+21:12:17:955 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:12:17:955 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:12:17:955 (00013428) > [NxApp] Swapchain initialized
+21:12:17:955 (00013428) > [NxApp] Initializing renderer...
+21:12:17:955 (00013428) > [NxApp] Renderer initialized
+21:12:17:955 (00013428) > [NxStorage] Detected device at 'd:\ghost of tsushima\ghost of tsushima directors cut', name 'SAMSUNG MZVL2512HDJD-00BH1', SSD: Yes, NVMe: Yes
+21:12:18:088 (00013428) > [NxStorage] DirectStorage initialization succeeded
+21:12:18:088 (00013428) > [CJobManager] Creating  10 worker threads, run on  11 cores
+21:12:18:183 (00013428) > [Render] Pipeline cache C:\Users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 3 pipelines, found 0 duplicates.
+21:12:18:190 (00013428) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
+21:12:18:782 (00013428) > [Steam] Stats received: 2
+21:13:01:174 (00013428) > [NxUpscaler] DLSS out of VRAM warning
+21:13:01:175 (00002596) > [DLSSG] Not set. Result:Unknown
+21:13:01:275 (00002596) > [DLSSG] Not set. Result:Unknown
+21:13:14:056 (00010412) > [Render] Quering NVAPI for GPU temperature
+21:13:14:056 (00010412) > [Render] Working set: 6621MB Page file: 12472MB Video Budget: 5153MB Video Usage: 4963MB Sys Budget: 7380MB Sys Usage: 832MB Demoted: 481MB fps: 91.9
+21:13:53:101 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:13:53:101 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:13:53:101 (00002596) > [NxReflex] Reflex support result:Result::eOk
+21:13:53:101 (00002596) > [NxReflex] Reflex GetState result:Result::eOk
+21:13:53:104 (00002596) > [NxReflex] DLSSG support result:Result::eOk
+21:13:53:104 (00013428) > [NxReflex] Reflex support result:Result::eOk
+21:13:53:104 (00013428) > [NxReflex] Reflex GetState result:Result::eOk
+21:13:53:105 (00013428) > [NxReflex] DLSSG support result:Result::eOk
+21:13:53:105 (00013428) > [Settings] New display settings are:
+21:13:53:105 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:13:53:105 (00013428) > [Settings] DirectX Version: 12
+21:13:53:105 (00013428) > [Settings] Window mode: Fullscreen
+21:13:53:105 (00013428) > [Settings] Fullscreen display mode:
+21:13:53:105 (00013428) > [Settings] 	Displaying on monitor: 0
+21:13:53:105 (00013428) > [Settings] 	Resolution: 1920x1080
+21:13:53:105 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:13:53:105 (00013428) > [Settings] 	HDR: Off
+21:13:53:105 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:13:53:105 (00013428) > [Settings] 	VSync: Off
+21:13:53:105 (00013428) > [Settings] 	Reflex: Low Latency with Boost
+21:13:53:105 (00013428) > [Settings] 	Frame generation: DLSSG
+21:13:53:105 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:13:53:105 (00013428) > [Settings] Anti aliasing: DLAA
+21:13:53:105 (00013428) > [Settings] Upscale method: DLSS
+21:13:53:105 (00013428) > [Settings] Upscale quality: Quality
+21:13:53:105 (00013428) > [Settings] Graphics Options:
+21:13:53:105 (00013428) > [Settings] 	Texture Quality: Ultra
+21:13:53:105 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:13:53:105 (00013428) > [Settings] 	Shadow Quality: Ultra
+21:13:53:105 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:13:53:105 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:13:53:105 (00013428) > [Settings] 	Terrain Detail: High
+21:13:53:105 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:13:53:105 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:13:53:105 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:13:53:105 (00013428) > [Settings] 	Volumetric Fog: Very High
+21:13:53:105 (00013428) > [Settings] 	Bloom: Off
+21:13:53:105 (00013428) > [Settings] 	Vignette: Off
+21:13:53:105 (00013428) > [Settings] 	Caustics: On
+21:13:53:105 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:13:53:105 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:13:53:105 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:13:53:105 (00013428) > [Settings] End of settings.
+21:13:53:105 (00013428) > [NxApp (Render Thread)] Finished enforcing display settings
+21:13:53:105 (00013428) > [NxApp] Finished enforcing display settings
+21:14:14:070 (00010412) > [Render] Quering NVAPI for GPU temperature
+21:14:14:070 (00010412) > [Render] Working set: 7085MB Page file: 12636MB Video Budget: 5153MB Video Usage: 4844MB Sys Budget: 7380MB Sys Usage: 1076MB Demoted: 693MB fps: 48.2
+21:14:30:619 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:14:30:619 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:14:30:619 (00013428) > [Settings] New display settings are:
+21:14:30:619 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:30:619 (00013428) > [Settings] DirectX Version: 12
+21:14:30:619 (00013428) > [Settings] Window mode: Fullscreen
+21:14:30:619 (00013428) > [Settings] Fullscreen display mode:
+21:14:30:619 (00013428) > [Settings] 	Displaying on monitor: 0
+21:14:30:619 (00013428) > [Settings] 	Resolution: 1920x1080
+21:14:30:619 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:14:30:619 (00013428) > [Settings] 	HDR: Off
+21:14:30:619 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:14:30:619 (00013428) > [Settings] 	VSync: Off
+21:14:30:619 (00013428) > [Settings] 	Reflex: Low Latency with Boost
+21:14:30:619 (00013428) > [Settings] 	Frame generation: DLSSG
+21:14:30:619 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:14:30:619 (00013428) > [Settings] Anti aliasing: DLAA
+21:14:30:619 (00013428) > [Settings] Upscale method: DLSS
+21:14:30:619 (00013428) > [Settings] Upscale quality: Quality
+21:14:30:619 (00013428) > [Settings] Graphics Options:
+21:14:30:619 (00013428) > [Settings] 	Texture Quality: Ultra
+21:14:30:619 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:14:30:619 (00013428) > [Settings] 	Shadow Quality: VeryHigh
+21:14:30:619 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:14:30:619 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:14:30:619 (00013428) > [Settings] 	Terrain Detail: High
+21:14:30:619 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:14:30:619 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:14:30:619 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:14:30:619 (00013428) > [Settings] 	Volumetric Fog: Very High
+21:14:30:619 (00013428) > [Settings] 	Bloom: Off
+21:14:30:619 (00013428) > [Settings] 	Vignette: Off
+21:14:30:619 (00013428) > [Settings] 	Caustics: On
+21:14:30:619 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:14:30:619 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:14:30:619 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:30:619 (00013428) > [Settings] End of settings.
+21:14:30:619 (00013428) > [NxApp (Render Thread)] Finished enforcing display settings
+21:14:30:619 (00013428) > [NxApp] Finished enforcing display settings
+21:14:30:822 (00013428) > [NxUpscaler] DLSS out of VRAM warning
+21:14:30:824 (00002596) > [DLSSG] Not set. Result:Unknown
+21:14:30:855 (00002596) > [DLSSG] Not set. Result:Unknown
+21:14:35:278 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:14:35:278 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:14:35:278 (00013428) > [Settings] New display settings are:
+21:14:35:278 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:35:278 (00013428) > [Settings] DirectX Version: 12
+21:14:35:278 (00013428) > [Settings] Window mode: Fullscreen
+21:14:35:278 (00013428) > [Settings] Fullscreen display mode:
+21:14:35:278 (00013428) > [Settings] 	Displaying on monitor: 0
+21:14:35:278 (00013428) > [Settings] 	Resolution: 1920x1080
+21:14:35:278 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:14:35:278 (00013428) > [Settings] 	HDR: Off
+21:14:35:278 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:14:35:278 (00013428) > [Settings] 	VSync: Off
+21:14:35:278 (00013428) > [Settings] 	Reflex: Low Latency with Boost
+21:14:35:278 (00013428) > [Settings] 	Frame generation: DLSSG
+21:14:35:278 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:14:35:278 (00013428) > [Settings] Anti aliasing: DLAA
+21:14:35:278 (00013428) > [Settings] Upscale method: DLSS
+21:14:35:278 (00013428) > [Settings] Upscale quality: Quality
+21:14:35:278 (00013428) > [Settings] Graphics Options:
+21:14:35:278 (00013428) > [Settings] 	Texture Quality: Ultra
+21:14:35:278 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:14:35:278 (00013428) > [Settings] 	Shadow Quality: VeryHigh
+21:14:35:278 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:14:35:278 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:14:35:278 (00013428) > [Settings] 	Terrain Detail: High
+21:14:35:278 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:14:35:279 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:14:35:279 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:14:35:279 (00013428) > [Settings] 	Volumetric Fog: High
+21:14:35:279 (00013428) > [Settings] 	Bloom: Off
+21:14:35:279 (00013428) > [Settings] 	Vignette: Off
+21:14:35:279 (00013428) > [Settings] 	Caustics: On
+21:14:35:279 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:14:35:279 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:14:35:279 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:35:279 (00013428) > [Settings] End of settings.
+21:14:35:279 (00013428) > [NxApp (Render Thread)] Finished enforcing display settings
+21:14:35:279 (00013428) > [NxApp] Finished enforcing display settings
+21:14:36:909 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:14:36:909 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:14:36:909 (00013428) > [Settings] New display settings are:
+21:14:36:909 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:36:909 (00013428) > [Settings] DirectX Version: 12
+21:14:36:909 (00013428) > [Settings] Window mode: Fullscreen
+21:14:36:909 (00013428) > [Settings] Fullscreen display mode:
+21:14:36:909 (00013428) > [Settings] 	Displaying on monitor: 0
+21:14:36:909 (00013428) > [Settings] 	Resolution: 1920x1080
+21:14:36:909 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:14:36:909 (00013428) > [Settings] 	HDR: Off
+21:14:36:909 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:14:36:909 (00013428) > [Settings] 	VSync: Off
+21:14:36:909 (00013428) > [Settings] 	Reflex: Low Latency with Boost
+21:14:36:909 (00013428) > [Settings] 	Frame generation: DLSSG
+21:14:36:909 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:14:36:909 (00013428) > [Settings] Anti aliasing: DLAA
+21:14:36:909 (00013428) > [Settings] Upscale method: DLSS
+21:14:36:909 (00013428) > [Settings] Upscale quality: Quality
+21:14:36:909 (00013428) > [Settings] Graphics Options:
+21:14:36:909 (00013428) > [Settings] 	Texture Quality: Ultra
+21:14:36:909 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:14:36:909 (00013428) > [Settings] 	Shadow Quality: VeryHigh
+21:14:36:909 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:14:36:909 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:14:36:909 (00013428) > [Settings] 	Terrain Detail: High
+21:14:36:909 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:14:36:909 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:14:36:909 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:14:36:909 (00013428) > [Settings] 	Volumetric Fog: Very High
+21:14:36:909 (00013428) > [Settings] 	Bloom: Off
+21:14:36:909 (00013428) > [Settings] 	Vignette: Off
+21:14:36:909 (00013428) > [Settings] 	Caustics: On
+21:14:36:909 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:14:36:909 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:14:36:909 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:36:909 (00013428) > [Settings] End of settings.
+21:14:36:909 (00013428) > [NxApp (Render Thread)] Finished enforcing display settings
+21:14:36:910 (00013428) > [NxApp] Finished enforcing display settings
+21:14:38:449 (00002596) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+21:14:38:449 (00002596) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+21:14:38:449 (00013428) > [Settings] New display settings are:
+21:14:38:449 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:38:449 (00013428) > [Settings] DirectX Version: 12
+21:14:38:449 (00013428) > [Settings] Window mode: Fullscreen
+21:14:38:449 (00013428) > [Settings] Fullscreen display mode:
+21:14:38:449 (00013428) > [Settings] 	Displaying on monitor: 0
+21:14:38:449 (00013428) > [Settings] 	Resolution: 1920x1080
+21:14:38:449 (00013428) > [Settings] 	Forced Aspect Ratio: Auto
+21:14:38:449 (00013428) > [Settings] 	HDR: Off
+21:14:38:449 (00013428) > [Settings] 	OS reported Refresh rate: 144
+21:14:38:449 (00013428) > [Settings] 	VSync: Off
+21:14:38:449 (00013428) > [Settings] 	Reflex: Low Latency with Boost
+21:14:38:449 (00013428) > [Settings] 	Frame generation: DLSSG
+21:14:38:449 (00013428) > [Settings] 	Dynamic resolution FPS target: 0
+21:14:38:449 (00013428) > [Settings] Anti aliasing: DLAA
+21:14:38:449 (00013428) > [Settings] Upscale method: DLSS
+21:14:38:449 (00013428) > [Settings] Upscale quality: Quality
+21:14:38:449 (00013428) > [Settings] Graphics Options:
+21:14:38:449 (00013428) > [Settings] 	Texture Quality: Ultra
+21:14:38:449 (00013428) > [Settings] 	Texture Filtering: Anisotropic16x
+21:14:38:449 (00013428) > [Settings] 	Shadow Quality: VeryHigh
+21:14:38:449 (00013428) > [Settings] 	Depth of Field: VeryHigh
+21:14:38:449 (00013428) > [Settings] 	Level of Detail: VeryHigh
+21:14:38:449 (00013428) > [Settings] 	Terrain Detail: High
+21:14:38:449 (00013428) > [Settings] 	Ambient Occlusion: SSAO Quality
+21:14:38:449 (00013428) > [Settings] 	Screen Space Reflections: Full Res
+21:14:38:449 (00013428) > [Settings] 	Screen Space Shadows: Very High
+21:14:38:449 (00013428) > [Settings] 	Volumetric Fog: High
+21:14:38:449 (00013428) > [Settings] 	Bloom: Off
+21:14:38:449 (00013428) > [Settings] 	Vignette: Off
+21:14:38:449 (00013428) > [Settings] 	Caustics: On
+21:14:38:449 (00013428) > [Settings] 	Motion Blur: 0.001000
+21:14:38:449 (00013428) > [Settings] 	FOV Correction: 1.000000
+21:14:38:449 (00013428) > [**************************************************Display + Graphics Settings**************************************************] 
+21:14:38:449 (00013428) > [Settings] End of settings.
+21:14:38:449 (00013428) > [NxApp (Render Thread)] Finished enforcing display settings
+21:14:38:450 (00013428) > [NxApp] Finished enforcing display settings
+21:15:14:079 (00010412) > [Render] Quering NVAPI for GPU temperature
+21:15:14:079 (00010412) > [Render] Working set: 7270MB Page file: 12257MB Video Budget: 5153MB Video Usage: 4792MB Sys Budget: 7380MB Sys Usage: 748MB Demoted: 365MB fps: 51.3
+21:16:00:833 (00013428) > [GameWindow] Window close requested
+21:16:00:849 (00013428) > [App] Quit request confirmed by user
+21:16:00:878 (00013428) > [NxApp] Destroying
+21:16:00:878 (00013428) > [DXGI] Destroyed swapchain.
+21:16:00:878 (00013428) > [SwapChain] Destroyed.
+21:16:00:878 (00013428) > [SwapChain] Released.
+21:16:00:889 (00013428) > [Render] Unloading NVAPI
+21:16:00:889 (00013428) > [Render] Done unloading NVAPI
+21:16:00:891 (00013428) > [DXGI] Destroyed swapchain.
+21:16:00:891 (00013428) > [DXGI] Released.
+21:16:01:131 (00022232) > [Crash] Memory statistics:
+21:16:01:131 (00022232) > [Crash]   Total RAM = 15.7 GB (16077 MB)
+21:16:01:131 (00022232) > [Crash]   Avail RAM = 2.0 GB (2042 MB)
+21:16:01:131 (00022232) > [Crash]   Total virtual memory = 131072.0 GB (134217727 MB)
+21:16:01:131 (00022232) > [Crash]   Avail virtual memory = 131016.0 GB (134160334 MB)
+21:16:01:131 (00022232) > [Crash]   Total page file = 26.4 GB (27007 MB)
+21:16:01:131 (00022232) > [Crash]   Avail page file = 3.7 GB (3820 MB)
+21:16:01:131 (00022232) > [Crash] Unhandled exception at address 0x0000000000000000 (code: 0xc0000005): "Access violation"
